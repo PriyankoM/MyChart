@@ -1,5 +1,6 @@
 {
-  "name": "blackcoffer",
+  "name": "mychart",
+  "homepage": "https://PriyankoM.github.io/MyChart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
