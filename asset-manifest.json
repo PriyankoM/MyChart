@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyChart/static/css/main.54aa409a.chunk.css",
+    "main.js": "/MyChart/static/js/main.6c524d03.chunk.js",
+    "main.js.map": "/MyChart/static/js/main.6c524d03.chunk.js.map",
+    "runtime-main.js": "/MyChart/static/js/runtime-main.43ddab77.js",
+    "runtime-main.js.map": "/MyChart/static/js/runtime-main.43ddab77.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/MyChart/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bd57e5bc.chunk.js": "/MyChart/static/js/2.bd57e5bc.chunk.js",
+    "static/js/2.bd57e5bc.chunk.js.map": "/MyChart/static/js/2.bd57e5bc.chunk.js.map",
+    "static/js/3.9d038fac.chunk.js": "/MyChart/static/js/3.9d038fac.chunk.js",
+    "static/js/3.9d038fac.chunk.js.map": "/MyChart/static/js/3.9d038fac.chunk.js.map",
+    "index.html": "/MyChart/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/MyChart/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.54aa409a.chunk.css.map": "/MyChart/static/css/main.54aa409a.chunk.css.map",
+    "static/js/2.bd57e5bc.chunk.js.LICENSE.txt": "/MyChart/static/js/2.bd57e5bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43ddab77.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bd57e5bc.chunk.js",
+    "static/css/main.54aa409a.chunk.css",
+    "static/js/main.6c524d03.chunk.js"
+  ]
+}
